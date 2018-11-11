@@ -5,5 +5,5 @@ sigtest.o: sigtest.c
 run:
 	./test
 clean:
-	rm -f *out *~ *o
+	rm -f *out *~ *o logs
     
